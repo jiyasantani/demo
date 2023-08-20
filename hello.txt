@@ -1,7 +1,2 @@
 hii how are you
 i am jiya
-<<<<<<< HEAD
-
-=======
-studying in vesit
->>>>>>> abc
